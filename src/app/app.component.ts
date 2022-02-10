@@ -26,6 +26,5 @@ export class AppComponent implements OnInit {
     this.audio = new Audio();
     this.audio.src = "../asset/bensound-endlessmotion.mp3"   
   }
-
 }
   
